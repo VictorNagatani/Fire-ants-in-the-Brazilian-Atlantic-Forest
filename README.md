@@ -1,7 +1,7 @@
 # Fire-ants-in-the-Brazilian-Atlantic-Forest
 ### DATA FROM: Fire ants in the Brazilian Atlantic Forest: history of occurrence and its implications
 
-Victor Hideki Nagatani, Tiago Henrique Nascimento Dativa Vieira, Otávio Guilherme Morais Silva, Rony Peterson Santos Almeida, Gabriela Procópio Camacho, Juliana Aparecida Calisto Vaz, Nathália Sampaio da Silva, Dietrich Gotzek, Milton Cezar Ribeiro, Maria Santina de Castro Morini
+
 
 
 Corresponding authors: [Vhnagatani@gmail.com]; [mscmorini@gmail.com]
