@@ -3,7 +3,7 @@
 Article submitted: Fire ants in the Brazilian Atlantic Forest: history of occurrence and its implications
 
 
-All the data obtained from the collections and data from the Atlantic ants database were cataloged in the database named: “Solenopsis_database”.
+All the data obtained from the collections and data from the Atlantic ants database were cataloged in the database named: “Solenopsis_spreadsheet”.
 
 
 To compare the decades, the data was organized into data frames: 
