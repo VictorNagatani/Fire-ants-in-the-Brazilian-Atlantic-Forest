@@ -8,7 +8,7 @@ Corresponding authors: [Vhnagatani@gmail.com]; [mscmorini@gmail.com]
 
 
 
-All the data obtained from the collections and data from the Atlantic ants database were cataloged in the database named: “BD_FINAL”.
+All the data obtained from the collections and data from the Atlantic ants database were cataloged in the database named: “Solenopsis_database”.
 
 
 To compare the decades, the data was organized into data frames: 
