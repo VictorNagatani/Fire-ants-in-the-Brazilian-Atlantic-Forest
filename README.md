@@ -20,3 +20,5 @@ S. saevissima = “dados_saevissima_atual”
 
 
 The script used to run the analysis in R for figures 5 and 6 is named “figure 5 and 6”
+
+Doi: [https://doi.org/10.5281/zenodo.15213483]
